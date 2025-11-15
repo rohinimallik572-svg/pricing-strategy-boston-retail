@@ -83,11 +83,11 @@ The goal was to **maximize total expected revenue** under real-world pricing con
 
 ## 📸 Dashboard Preview
 
-![Dashboard 1](pricing_dashboard_1.png)
-![Dashboard 2](pricing_dashboard_2.png)
-![Dashboard 3](pricing_dashboard_3.png)
-![Dashboard 4](pricing_dashboard_4.png)
+![Dashboard 1](pricing_dashboard.png 1)
+![Dashboard 2](pricing_dashboard.png 2)
+![Dashboard 3](pricing_dashboard.png 3)
+![Dashboard 4](pricing_dashboard.png 4)
 
-> The dashboards visualize the optimization results from Excel Solver,
-> comparing revenue per listing, neighborhood performance, and price elasticity across Boston.
+> These dashboards display revenue optimization results from Excel Solver, 
+> highlighting neighborhood performance, price bounds, and occupancy-driven revenue trends across Boston.
 
